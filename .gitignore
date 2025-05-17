@@ -1,1 +1,6 @@
 node_modules/\n.DS_Store\n.env\n*.log\n.vscode/
+node_modules/
+.DS_Store
+*.log
+dist/
+build/
